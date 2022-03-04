@@ -1,0 +1,17 @@
+{
+  "name": "ecomm-server",
+  "version": "1.0.0",
+  "description": "ecommerce proyect for coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecomm"
+  ],
+  "author": "machi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
